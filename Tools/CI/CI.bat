@@ -1,9 +1,9 @@
+@ECHO OFF
+chcp 866
+
 echo Author: Mikhail Gorelov
 echo Project: FAVOA
 echo Date: 21.01.2018
-
-@ECHO OFF
-chcp 866
 
 set gitFolder=C:\Temp\Study
 set buildFolder=%gitFolder%\bin
